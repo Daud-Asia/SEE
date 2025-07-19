@@ -1,9 +1,4 @@
-print("Hello, World! 🌍")
 
->>>
-Try it! It’s like saying hello to the computer! 😊
-
-Let's make it more fun and create a mini-calculator 📱
 # 🎉 Welcome to the Fun Calculator! 🎉
 # We're going to add, subtract, multiply, and divide two numbers like a boss! 😎
 
